@@ -1,4 +1,4 @@
-medida = float(input("Digite uma distancia em metros: \n256"))
+medida = float(input("Digite uma distancia em metros: \n"))
 dm = medida * 10
 cm = medida * 100
 mm = medida * 1000
